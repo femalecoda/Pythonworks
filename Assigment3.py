@@ -30,7 +30,7 @@ print("sum of items on list is:",total_sum)
 
 
 print(supermarket_list[2:-5:3])
-
+print("test")
 
 
 

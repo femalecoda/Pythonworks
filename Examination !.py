@@ -1,10 +1,10 @@
-# 1. Declare a variables caled number of days with int 30
-# 2. Declare a variable is amount complete set it to boolen True
-# 3. Declare a varable Lenght of sides set to Float 200.07
-# 4. Declare a varible header title set to string welcome to nigeria
-# 5. Declare a varible total sum set it to (int in Q1 "30 raise to power 2"
-# 6. Declare a varible Result for today set it to the (float in Q3 " 200.07 multiple by 5"
-# 7. Declare a varible the sum set it to 15 + 16
+# 1. Declare a variables caled number of days, with int 30
+# 2. Declare a variable is amount complete, set it to boolen True
+# 3. Declare a varable Lenght of sides, set to Float 200.07
+# 4. Declare a varible header title, set to string welcome to nigeria
+# 5. Declare a varible total sum, set it to (int in Q1 "30 raise to power 2"
+# 6. Declare a varible Result for today, set it to the (float in Q3 " 200.07 multiple by 5"
+# 7. Declare a varible the sum, set it to 15 + 16
 # 8. Declare a varible the product set it to 7*17
 # 9. Declare three varaibe X 9,Y 18, Z 36
 #10. create an if statement to print condition is true
@@ -13,6 +13,7 @@
 #13. write an if and else statment (If passage1 in bus print(sandra in the bus) elif print janet)
 #14. creat a for loop print 11times starting from 1 - 100
 #15. create a while loop asking user to Enter a number( when user enter number larger than 1millon print (program has terminated )
+
 
 
 number_of_days = 30
@@ -58,12 +59,7 @@ for number in range (0,101):
         print("Eleven times ",number,"is", 11 * number)
 
 
-            
-
-
-
-
-
+        
 
 number_million = True
 while number_million:
